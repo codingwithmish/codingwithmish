@@ -6,7 +6,7 @@ Honestly, I don't know what to write here... I am a young man who is trying to l
 
 ### 🥩 Projects
 
-[Quiz-App-React](https://github.com/codingwithmish/quiz-app-react)
+[Quiz App with React](https://github.com/codingwithmish/quiz-app-react)
 
 ### 🍕 Tech
 
