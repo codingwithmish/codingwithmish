@@ -6,6 +6,8 @@ Honestly, I don't know what to write here... I am a young man who is trying to l
 
 ### 🥩 Projects
 
+[REST Countries API with React](https://github.com/codingwithmish/REST-Countries-API)
+
 ### 🍕 Tech
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
