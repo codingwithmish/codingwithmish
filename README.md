@@ -6,9 +6,9 @@ Honestly, I don't know what to write here... I am a young man who is trying to l
 
 ### 🥩 Projects
 
-![Airbnb Clone(mish) - Nextjs](https://github.com/codingwithmish/mishbnb)
-![Digital E-Commerce - Nextjs](https://github.com/codingwithmish/digital-e-commerce)
-![Fiverr UI Clone - React](https://github.com/codingwithmish/fiverr-react)
+[Airbnb Clone(mish) - Nextjs](https://github.com/codingwithmish/mishbnb)
+[Digital E-Commerce - Nextjs](https://github.com/codingwithmish/digital-e-commerce)
+[Fiverr UI Clone - React](https://github.com/codingwithmish/fiverr-react)
 
 ### 🍕 Tech
 
